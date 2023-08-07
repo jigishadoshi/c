@@ -1,3 +1,5 @@
+// convert 24 hours time format into 12 hour format.
+
 #include<stdio.h>
 void main()
 {

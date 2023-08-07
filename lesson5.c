@@ -1,3 +1,5 @@
+// check person is diabetic or not.
+
 #include<stdio.h>
 void main()
 {

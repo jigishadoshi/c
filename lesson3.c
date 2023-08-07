@@ -1,3 +1,5 @@
+// check whether year is millenium or not.
+
 #include<stdio.h>
 void main()
 {
